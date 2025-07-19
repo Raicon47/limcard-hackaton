@@ -1,5 +1,12 @@
-# Vue 3 + Vite
+# Mylimcard Hackathon Entry  
+🌳 Digital greeting cards to save trees.  
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## Demo Features  
+- WhatsApp card sender (Twilio API)  
+- 3 sample eco-card templates  
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+## License  
+MIT (see https://opensource.org/license/mit. Certain Mylimcard features are proprietary.  
+
+## Want the Demo?  
+Visit https://limcard-hackaton.vercel.app/

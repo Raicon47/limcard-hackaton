@@ -6,7 +6,7 @@
 - 3 sample eco-card templates  
 
 ## License  
-MIT (see https://opensource.org/license/mit. Certain Mylimcard features are proprietary.  
+This version is open sourced for the purpose of the Kiro Hackaton. It is under the MIT (see https://opensource.org/license/mit) Certain Mylimcard features are proprietary.  
 
 ## Want the Demo?  
 Visit https://limcard-hackaton.vercel.app/
